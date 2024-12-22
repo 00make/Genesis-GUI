@@ -1,0 +1,11 @@
+# GUI dependencies
+PyQt5>=5.15.0
+qt-material>=2.12
+
+# Testing dependencies
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# Development tools
+black>=22.3.0
+flake8>=4.0.0
